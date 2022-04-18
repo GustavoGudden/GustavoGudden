@@ -6,7 +6,7 @@
  
  
  ![Gustavo Gudden GitHub stats](https://github-readme-stats.vercel.app/api?username=GustavoGudden&show_icons=true&theme=dracula)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGudden&layout=compact)](https://github.com/GustavoGudden/github-readme-stats)
+
 
 ## Skills
 <div style="display: inline_block"><br/>
